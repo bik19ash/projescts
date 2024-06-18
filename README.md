@@ -1,3 +1,3 @@
-# projescts
+# projects
 my first project
 neirehe
